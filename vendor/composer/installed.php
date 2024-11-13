@@ -1,7 +1,7 @@
 <?php return array(
     'root' => array(
         'name' => 'tiemsky/haskey',
-        'pretty_version' => '1.0.0+no-version-set',
+        'pretty_version' => '1.0.0',
         'version' => '1.0.0.0',
         'reference' => NULL,
         'type' => 'library',
@@ -173,7 +173,7 @@
             ),
         ),
         'tiemsky/haskey' => array(
-            'pretty_version' => '1.0.0+no-version-set',
+            'pretty_version' => '1.0.0',
             'version' => '1.0.0.0',
             'reference' => NULL,
             'type' => 'library',
