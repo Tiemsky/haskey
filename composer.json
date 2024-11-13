@@ -18,5 +18,16 @@
             "email": "tiafranck31@yahoo.fr"
         }
     ],
-    "minimum-stability": "stable"
+
+    "minimum-stability": "stable",
+    "prefer-stable": true,
+    "version": "1.0.0",
+    "keywords": ["laravel", "key", "model", "generator"],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/tiemsky/haskey.git"
+        }
+    ]
+    
 }
